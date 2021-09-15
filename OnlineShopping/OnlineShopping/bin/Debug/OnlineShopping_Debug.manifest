@@ -1,0 +1,8 @@
+<DeploymentManifest version="5.0">
+  <CompositeStudioProject name="OnlineShopping" fileName="OnlineShopping.dll" assemblyName="OnlineShopping.dll" id="Project-8D976BE3D86F992" version="19.1.21.0" deploymentVersion="1.0" configuration="" createdWith="Build" obfuscated="False" runtime="True" digest="B1A32353B18375182B0A4BB1531ACCC939A947">
+    <Assemblies>
+      <Assembly value="OnlineShopping.dll" digest="7438E17D3EFB5510D45A5E6657220EBD9B1D10" />
+      <Assembly value="OnlineShopping.pdb" digest="B8860663A0E55E701321EE4A9665A2DA174CB4" />
+    </Assemblies>
+  </CompositeStudioProject>
+</DeploymentManifest>
