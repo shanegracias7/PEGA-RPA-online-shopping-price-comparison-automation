@@ -1,3 +1,13 @@
 # ONLINE SHOPING PRICE COMPARISION AUTOMATION
-Robotic Process Automation developed using Pega RPA and .NET framework which take name of the item from the users as input and compares the items price on different online stores and displays website that list the item for cheapest price
-![image](https://user-images.githubusercontent.com/69889290/133398189-7be6d3c7-cb8d-4341-a2e5-3439ff9028e8.png)
+
+Robotic process automation which automates the task of searching for a particular product on different online stores and comparing the prices to get the best deal.
+
+Developed using .NET framework  and Pega RPA tool.
+
+steps
+1> user inputs the product name
+2>the program opens different online store websites (flipkart and amazon for demo purpose) and navigates to the the product on the stores
+3>the program compares the price
+4>the program displays the website with the cheapest price for the particular  product
+![image](https://user-images.githubusercontent.com/69889290/133403211-0ce19532-cbb0-442d-bfa9-b2c1b68bac3d.png)
+
