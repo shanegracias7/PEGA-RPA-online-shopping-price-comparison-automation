@@ -9,5 +9,6 @@ steps
 2>the program opens different online store websites (flipkart and amazon for demo purpose) and navigates to the the product on the stores
 3>the program compares the price
 4>the program displays the website with the cheapest price for the particular  product
-![image](https://user-images.githubusercontent.com/69889290/133403211-0ce19532-cbb0-442d-bfa9-b2c1b68bac3d.png)
+![screenshot](https://user-images.githubusercontent.com/69889290/133404509-786486c2-83bf-4084-81da-2f9ee5a3cdb8.jpeg)
+
 
