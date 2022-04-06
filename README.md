@@ -1,4 +1,4 @@
-# ONLINE SHOPING PRICE COMPARISION AUTOMATION
+# ONLINE SHOPPING PRICE COMPARISION AUTOMATION
 
 >Robotic process automation which automates the task of searching for a particular product on different online stores and comparing the prices to get the best deal.
 
